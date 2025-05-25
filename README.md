@@ -1,4 +1,4 @@
-# Music-SQL-Project
+# Music_Store-SQL-Project
 This is SQL project carried out in Postgre SQL to answer different queries from a music store database.
 
 This project demonstrates how to use SQL to query a music store database and extract useful insights. It serves as a basic introduction to SQL querying for beginners.
